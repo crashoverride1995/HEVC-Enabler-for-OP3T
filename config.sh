@@ -21,7 +21,7 @@
 # Defines
 ##########################################################################################
 
-# NOTE: This part has to be adjusted to fit your own needs
+# NOTE: This part has to be adju sted to fit your own needs
 
 # This will be the folder name under /magisk
 # This should also be the same as the id in your module.prop to prevent confusion
@@ -48,7 +48,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     HEVC-Enabler for OP3T     "
+  ui_print "    HEVC-Enabler for OP3T/5    "
   ui_print "*******************************"
 }
 
